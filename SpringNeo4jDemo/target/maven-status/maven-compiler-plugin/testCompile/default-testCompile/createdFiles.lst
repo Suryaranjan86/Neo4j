@@ -1,0 +1,13 @@
+com\example\springneo4jdemo\service\DepartmentServiceImpTest.class
+com\example\springneo4jdemo\ut\CollegeServiceTest.class
+com\example\springneo4jdemo\it\Neo4JContainer.class
+com\example\springneo4jdemo\service\UniversityServiceImpTest.class
+com\example\springneo4jdemo\controller\CollegeControllerTest.class
+com\example\springneo4jdemo\service\CollegeServiceImpTest.class
+com\example\springneo4jdemo\service\StudentServiceImpTest.class
+com\example\springneo4jdemo\it\SubjectControllerTest.class
+com\example\springneo4jdemo\Springneo4jdemoApplicationTests.class
+com\example\springneo4jdemo\controller\UniversityControllerTest.class
+com\example\springneo4jdemo\service\SubjectImplTest.class
+com\example\springneo4jdemo\repository\UniversityRepositoryTest.class
+com\example\springneo4jdemo\controller\DepartmentControllerTest.class
